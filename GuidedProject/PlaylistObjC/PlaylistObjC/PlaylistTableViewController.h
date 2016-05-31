@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PlaylistTableViewController.h
 //  PlaylistObjC
 //
 //  Created by Emily Mearns on 5/31/16.
@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PlaylistController.h"
 
-@interface ViewController : UIViewController
-
+@interface PlaylistTableViewController : UITableViewController
 
 @end
-
